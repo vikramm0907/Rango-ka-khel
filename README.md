@@ -1,5 +1,4 @@
 # Rango-ka-khel Game
-
-Just a learning part, if love to play games...
+Test you memory with my memory game!
 Click here.... https://vikramm0907.github.io/Rango-ka-khel/
-Test your memory, till what level you are able to memorize the pattern...
+What's your highscore?
